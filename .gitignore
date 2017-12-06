@@ -1,0 +1,5 @@
+*.db
+IMGTXT/bin/
+IMGTXT/obj/
+packages/
+*.json
